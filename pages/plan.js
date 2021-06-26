@@ -281,7 +281,7 @@ export default function Plan() {
               <Box className={classes.boxHeader_section}>
                 <Avatar alt="Remy Sharp" src="/images/logo.png" className={classes.avatar} />
                 <Box>
-                  <Typography className={classes.boxHeaderTitle} variant="caption" gutterBottom>FISH, Staking Pool</Typography>
+                  <Typography className={classes.boxHeaderTitle} variant="caption" gutterBottom>PEET, Staking Pool</Typography>
                 </Box>
               </Box>
               <Chip className={classes.boxHeaderStatus} label="ACTIVE" />
