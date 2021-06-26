@@ -1,4 +1,4 @@
-# PEER-POOL-UI
+# PEET-POOL-UI
 
 ## Running
 - Run in local machine
