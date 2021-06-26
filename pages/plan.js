@@ -279,7 +279,7 @@ export default function Plan() {
           <Box className={classes.boxContent}>
             <Box className={classes.boxHeader}>
               <Box className={classes.boxHeader_section}>
-                <Avatar alt="Remy Sharp" src="/images/1.png" className={classes.avatar} />
+                <Avatar alt="Remy Sharp" src="/images/logo.png" className={classes.avatar} />
                 <Box>
                   <Typography className={classes.boxHeaderTitle} variant="caption" gutterBottom>FISH, Staking Pool</Typography>
                 </Box>
@@ -299,7 +299,7 @@ export default function Plan() {
                         <path d="M4.742 20.652h8.074c.399 0 .668-.27.668-.656V18.25c0-2.684 3.903-4.395 3.903-9.223C17.387 3.93 13.94.52 8.785.52 3.63.52.172 3.93.172 9.027c0 4.829 3.914 6.54 3.914 9.223v1.746c0 .387.258.656.656.656zm.375 3.012h7.324c.575 0 1.043-.469 1.043-1.055s-.468-1.054-1.043-1.054H5.117c-.574 0-1.043.468-1.043 1.054 0 .586.469 1.055 1.043 1.055zm3.668 2.719c1.559 0 2.66-.727 2.777-1.817H6.008c.094 1.09 1.195 1.817 2.777 1.817z"></path>
                       </SvgIcon>
                     </IconButton>
-                    <Typography className={classes.boxBodyLabel} variant="caption" gutterBottom>Hold FISH without sale- Withdraw blocked monthly</Typography>
+                    <Typography className={classes.boxBodyLabel} variant="caption" gutterBottom>Hold PEET without sale- Withdraw blocked monthly</Typography>
                   </Box>
                 </Box>
                 <Box className={classes.boxBodyLeftBody}>

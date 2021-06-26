@@ -123,9 +123,9 @@ export default function Index() {
             <Box className={classes.boxContent}>
               <Box className={classes.boxHeader}>
                 <Box className={classes.boxHeader_section}>
-                  <Avatar alt="Remy Sharp" src="/images/1.png" className={classes.avatar} />
+                  <Avatar alt="Remy Sharp" src="/images/logo.png" className={classes.avatar} />
                   <Box>
-                    <Typography className={classes.boxHeaderTitle} variant="caption" gutterBottom>FISH, Staking Pool</Typography>
+                    <Typography className={classes.boxHeaderTitle} variant="caption" gutterBottom>PEET, Staking Pool</Typography>
                   </Box>
                 </Box>
               </Box>
