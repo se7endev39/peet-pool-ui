@@ -1,11 +1,17 @@
 # PEER-POOL-UI
 
 ## Running
-- Run in development server
+- Run in local machine
+
+```
 yarn install
 yarn dev
+```
 
-- Run in Production server
+- Build and Run in Production server
+
+```
 yarn install
 yarn build
 yarn start
+```
