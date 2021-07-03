@@ -7,7 +7,6 @@ import LockOpenOutlinedIcon from '@material-ui/icons/LockOpenOutlined';
 
 const useStyles = makeStyles((theme) => ({
   container: {
-    background: '#302e49',
     padding: '1.25rem',
     maxWidth: '1080px',
   },
@@ -29,7 +28,6 @@ const useStyles = makeStyles((theme) => ({
     },
   },
   boxContent: {
-    border: '.1rem solid rgba(172, 174, 183, 0.5)',
   },
   boxHeader: {
     display: 'flex',
@@ -38,7 +36,7 @@ const useStyles = makeStyles((theme) => ({
     minHeight: '2.75rem',
     paddingLeft: '1.25rem',
     paddingRight: '1.25rem',
-    background: '#373456',
+    background: '-webkit-linear-gradient(top, rgba(218,75,253,1) 0%,#5d19db 100%)',
   },
   boxHeader_section: {
     display: 'flex',
@@ -69,7 +67,7 @@ const useStyles = makeStyles((theme) => ({
     display: 'flex',
     width: '60%',
     flexDirection: 'column',
-    background: '#413f63',
+    background: '#5d19db',
     boxSizing: 'border-box',
     borderRight: '.1rem groove rgba(172, 174, 183, 0.5)',
   },
@@ -102,7 +100,7 @@ const useStyles = makeStyles((theme) => ({
     display: 'flex',
   },
   boxBodyRight: {
-    background: '#413f63',
+    background: '#5d19db',
     width: '40%',
   },
   boxBodyRightContent: {
@@ -170,16 +168,15 @@ const useStyles = makeStyles((theme) => ({
   },
   padding: {
     marginTop: '-.1rem',
-    backgroundColor: '#413f63',
+    backgroundColor: '#5d19db',
   },
   tabs: {
     marginTop: '1rem',
-    border: '.1rem solid rgba(172, 174, 183, 0.5)',
-    background: '#413f63',
+    background: '#5d19db',
     minHeight: '333px',
   },
   demo2: {
-    backgroundColor: '#373456',
+    background: '-webkit-linear-gradient(top, rgba(218,75,253,1) 0%,#5d19db 10%)',
   },
   focusedTab: {
     color: '#f5a623',
@@ -250,7 +247,7 @@ TabPanel.propTypes = {
 
 const StyledTableCell = withStyles((theme) => ({
   head: {
-    backgroundColor: '#373456',
+    backgroundColor: '#5d19db',
     color: '#91949f',
     fontSize: '.625rem',
     paddingTop: '0.25rem',
