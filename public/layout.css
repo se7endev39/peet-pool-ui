@@ -1,3 +1,7 @@
 body {
     margin: 0 !important;
+    background-color: #0A134C;
+    background: url(../images/wave.png);
+    background-position: center 200px;
+    background-repeat: no-repeat;
 }

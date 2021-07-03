@@ -42,7 +42,13 @@ function getErrorMessage(error) {
 const useStyles = makeStyles((theme) => ({
     bodyContainer: {
         [theme.breakpoints.up('md')]: {
-            height: "100vh"
+            height: "100%",
+            marginLeft: 'auto',
+            marginRight: 'auto',
+            backgroundColor: '#0A134C',
+            background: 'url(../images/wave.png)',
+            backgroundPosition: 'center 100px',
+            backgroundRepeat: 'repeat'
         }
     },
 }));
